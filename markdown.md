@@ -26,5 +26,8 @@ Berikut adalah *README profil GitHub* yang saya buat:
 - 🎓 Saat ini saya mahasiswa Geofisika di [Universitas Anda]  
 - 💻 Sedang belajar *Python* untuk analisis data geofisika dan otomasi  
 - ⚡ Tertarik dengan open-source dan komputasi ilmiah  
-- 🏃 Hobi saya adalah berolahraga — terutama lari, kalistenik, dan sepak bola  
+- 🏃 Hobi saya adalah berolahraga — terutama lari, kalistenik, dan sepak bola
+
+tugas no 3
+
 - 📫 Hubungi saya melalui: [email atau LinkedIn/GitHub link]
